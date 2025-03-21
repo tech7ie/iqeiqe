@@ -21,7 +21,7 @@
 
 .malevich-area {
   background-color: black;
-  height: 50%;
+  width: calc(150px + 20%);
   aspect-ratio: 1/1;
 }
 </style>
